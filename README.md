@@ -219,7 +219,6 @@ The analysis suggests that churn is influenced more by **behavioral and profile-
 - `bank_customer_churn_prediction.csv` — csv file with the dataset
 - `Projeto_Banco_Churn.ipynb` — main notebook with EDA, preprocessing, modeling, and evaluation
 - `README.md` — project documentation
-- `requirements.txt` — project dependencies
 
 ## Future Improvements
 
