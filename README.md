@@ -1,6 +1,7 @@
 <img width="6000" height="3000" alt="etienne-martin-2_K82gx9Uk8-unsplash" src="https://github.com/user-attachments/assets/ec5193ac-5c68-40c4-aa64-2d6f6f1a9689" />
 
-![Python](https://img.shields.io/badge/Python-%2B-blue?style=flat-square&logo=python)![Static Badge](https://img.shields.io/badge/Jupyter-Notebook-orange)![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-FF0000?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2B-blue?style=flat-square&logo=python)
+![Static Badge](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3399FF?style=flat-square&logo=seaborn&logoColor=white)
